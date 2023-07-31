@@ -1,0 +1,44 @@
+p {
+    color: rgb(140, 101, 80);
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    text-align: initial;
+
+}
+
+h1 {
+    color: rgb(74, 39, 0);
+    background: repeating-linear-gradient(160deg, #d9aeae 0%, #798e79 20%);
+
+}
+
+h2 {
+    color: rgb(0, 0, 54);
+    background-color: rgb(166, 101, 80, 0.4);
+}
+
+h4 {
+    color: rgb(0, 0, 54);
+    background-color: rgb(166, 101, 80, 0.4);
+}
+
+h5 {
+    color: rgb(0, 0, 54);
+    background-color: rgb(166, 101, 80, 0.4);
+}
+
+h6 {
+    color: rgb(0, 0, 54);
+    background-color: rgb(166, 101, 80, 0.4);
+}
+
+div {
+    width: 890px;
+    height: 890px;
+    background-color: burlywood;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 70px;
+    padding: 70px;
+}
